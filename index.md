@@ -15,4 +15,5 @@ You’ll find hand-picked scripts, full-scale projects, and activities that show
 
 Aspiring data professional passionate about solving problems with SQL, databases, and insightful analysis.
 
+![My very beautiful face](images/boy.jpeg "Sitting Pretty")
 [Contact me on LinkedIn](#)
